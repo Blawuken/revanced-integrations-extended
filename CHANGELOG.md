@@ -1,3 +1,27 @@
+# 1.0.0 (2023-12-01)
+
+
+### Bug Fixes
+
+* **YouTube Music/Return YouTube Dislike:** some settings and resources have been missing ([9af2def](https://github.com/Blawuken/revanced-integrations-extended/commit/9af2def4541087d831bb7266ad3dd40102f729b8))
+* **YouTube Music/SponsorBlock:** some settings and resources have been missing ([909b00b](https://github.com/Blawuken/revanced-integrations-extended/commit/909b00b6c879f1fed58aa20b5664b1a92b4c3028))
+* **YouTube/Overlay buttons:** change the dialog style of the external downloader ([627264b](https://github.com/Blawuken/revanced-integrations-extended/commit/627264b5d5076ad2a6c59ee9b57f88b120d27438))
+* **YouTube/Overlay buttons:** change the dialog style of the external downloader ([6eefacc](https://github.com/Blawuken/revanced-integrations-extended/commit/6eefacc5b50767ea5069b62ec06f89905116def8))
+* **YouTube/Return YouTube Dislike:** some settings and resources have been missing ([d65e172](https://github.com/Blawuken/revanced-integrations-extended/commit/d65e17272d1858f568d6cf90dacfde931c4bfcf2))
+* **YouTube/Settings:** some Listpreference is specified as an unintended summary ([5c5ab38](https://github.com/Blawuken/revanced-integrations-extended/commit/5c5ab380504f6a7b84e73b88306f842e68bfcf71))
+* **YouTube/SponsorBlock:** some settings and resources have been missing ([6956874](https://github.com/Blawuken/revanced-integrations-extended/commit/695687428945fef18567907b3891befbca5215e6))
+* **YouTube/SponsorBlock:** some videos refused to end where there's a skippable segment at the end ([cdfa9ad](https://github.com/Blawuken/revanced-integrations-extended/commit/cdfa9ad5424fc6f425ccdaf40f3a11da6f95e4d5))
+* **YouTube/Theme:** rollback to previous commit ([aefc2d0](https://github.com/Blawuken/revanced-integrations-extended/commit/aefc2d0c0b03e7bceb90f2252366c38ea2c76f2f))
+
+
+### Features
+
+* modernize restart logic ([6d09d9e](https://github.com/Blawuken/revanced-integrations-extended/commit/6d09d9e3ce1925282ea1ff5542c63c635206b6fb))
+* **YouTube Music/Settings:** `Import / Export as file` is no longer save in `*.json` format, and is saved in `*.txt` format ([c97ea84](https://github.com/Blawuken/revanced-integrations-extended/commit/c97ea84bea1f0ad4bd64fa2690eb704ec42475fd))
+* **YouTube/Hide suggestions shelf:** add method to detect navbar index ([21b5144](https://github.com/Blawuken/revanced-integrations-extended/commit/21b51446b69fb387613c06a51555c8cff531c948))
+* **YouTube/Settings:** `Import / Export as file` is no longer save in `*.json` format, and is saved in `*.txt` format ([e0a7575](https://github.com/Blawuken/revanced-integrations-extended/commit/e0a7575ed046076aee362e8e56f4417b3317cc11))
+* **YouTube:** add `Force fullscreen` patch ([c7a4a7f](https://github.com/Blawuken/revanced-integrations-extended/commit/c7a4a7fe88182a5e4da1ab4259df55e54caf6654))
+
 ## [0.122.1](https://github.com/Blawuken/revanced-integrations/compare/v0.122.0...v0.122.1) (2023-11-21)
 
 
