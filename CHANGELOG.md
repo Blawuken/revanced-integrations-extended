@@ -1,3 +1,20 @@
+# [1.1.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.0.0...v1.1.0) (2023-12-03)
+
+
+### Bug Fixes
+
+* **YouTube/Hide layout components:** `Hide feed surveys` sometimes does not work ([b773cd9](https://github.com/Blawuken/revanced-integrations-extended/commit/b773cd9cbee2f5e1df5aba58e3452a59075eebd0))
+* **YouTube/Settings:** some translations are wrong ([2abd43e](https://github.com/Blawuken/revanced-integrations-extended/commit/2abd43e87ba6f6a925d0107ef012738060c41b1b))
+* **YouTube/SponsorBlock:** some videos refused to end where there's a skippable segment at the end ([0cd2ad1](https://github.com/Blawuken/revanced-integrations-extended/commit/0cd2ad1af0f12803999c9dec0d977cfb6def5ee5))
+* **YouTube/Swipe controls:** swipe gesture working even after using `Lock screen` feature when `Press-to-swipe` is enabled ([d7330de](https://github.com/Blawuken/revanced-integrations-extended/commit/d7330de8220aa1237efe1ed221680be61e827d10))
+
+
+### Features
+
+* **YouTube Music/Hide music ads:** add `Close interstitial ads` settings ([7eb4aaf](https://github.com/Blawuken/revanced-integrations-extended/commit/7eb4aafe6cfff26c8e52a73395c79f7cbcfe6308))
+* **YouTube/Hide general ads:** add `Close interstitial ads` settings ([e6d4939](https://github.com/Blawuken/revanced-integrations-extended/commit/e6d4939d1987f7d6efe373cba56012925b0781e6))
+* **YouTube/Hide shorts components:** add `Hide create shorts button` settings ([536af80](https://github.com/Blawuken/revanced-integrations-extended/commit/536af802b917ff63780120ac21bd72db42a80b90))
+
 # 1.0.0 (2023-12-01)
 
 
