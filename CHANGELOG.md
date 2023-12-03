@@ -1,3 +1,18 @@
+# [1.2.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.1.0...v1.2.0) (2023-12-03)
+
+
+### Bug Fixes
+
+* **YouTube/SponsorBlock:** some videos refused to end where there's a skippable segment at the end ([85c5ea2](https://github.com/Blawuken/revanced-integrations-extended/commit/85c5ea25d3c1f12bf42fbda0cf4147c560c8520e))
+* **YouTube/Swipe controls:** change the description of settings ([775f9d3](https://github.com/Blawuken/revanced-integrations-extended/commit/775f9d31de345620d76accb579b2abea7be4aa26))
+
+
+### Features
+
+* **YouTube Music:** add `Hide general ads` patch ([12afb07](https://github.com/Blawuken/revanced-integrations-extended/commit/12afb07d608ad1fd10e5a317278b0dbf5d789c8f))
+* **YouTube/Default video quality:** check whether the default video quality is valid before applying it ([ddc9da6](https://github.com/Blawuken/revanced-integrations-extended/commit/ddc9da65bdc616209496e558f64aa8035e2cd40f))
+* **YouTube/Swipe controls:** add `Swipe gestures in 'Lock screen' mode` settings ([ae4245d](https://github.com/Blawuken/revanced-integrations-extended/commit/ae4245d205820c28ee63a96f9dd610994f5ed742))
+
 # [1.1.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.0.0...v1.1.0) (2023-12-03)
 
 
