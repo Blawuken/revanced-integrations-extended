@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.3.0...v1.3.1) (2023-12-06)
+
+
+### Bug Fixes
+
+* **YouTube/Spoof player parameters:** thumbnail preview is not updated ([e9476d9](https://github.com/Blawuken/revanced-integrations-extended/commit/e9476d91578e991684e96b76cd5da12ea698795e))
+
 # [1.3.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.2.0...v1.3.0) (2023-12-06)
 
 
