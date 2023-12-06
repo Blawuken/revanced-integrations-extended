@@ -1,3 +1,20 @@
+# [1.3.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.2.0...v1.3.0) (2023-12-06)
+
+
+### Bug Fixes
+
+* **Return YouTube Dislike:** error toast shown in unintended situations ([db6d950](https://github.com/Blawuken/revanced-integrations-extended/commit/db6d9506ed3b0b5edae07a8d3fb7dbc5c3e7283b))
+* **YouTube Music/Hide general ads:** `Hide premium renewal banner` is not hidden ([766ed26](https://github.com/Blawuken/revanced-integrations-extended/commit/766ed260734286ad974f94e99bce9c406e3a37ad))
+* **YouTube/Overlay buttons:** `Hook download button` setting is visible even in versions that do not support `Hook download button` ([2cb0fe9](https://github.com/Blawuken/revanced-integrations-extended/commit/2cb0fe98b7a264b6e81f55b88fbf0485b536f1a6))
+* **YouTube/Return YouTube Dislike:** dislikes sometimes not showing for non English language ([804a783](https://github.com/Blawuken/revanced-integrations-extended/commit/804a7834e195a75aaefda7d296f1ed7f0cfaee3c))
+* **YouTube/Return YouTube Dislike:** prevent the first Short opened from freezing the UI ([da876ec](https://github.com/Blawuken/revanced-integrations-extended/commit/da876ec949a9c679a549d324e3dff1f2575ba5de))
+* **YouTube/Spoof player parameters:** error toast shown when you first launch the app ([7872b5f](https://github.com/Blawuken/revanced-integrations-extended/commit/7872b5f0e5ec4a998a2f5904e05be6e716fbf9ce))
+
+
+### Features
+
+* **YouTube/Hide general ads:** toast message is shown when closing `interstitial ads` ([2f1a498](https://github.com/Blawuken/revanced-integrations-extended/commit/2f1a498ddeb49755b2a34a0440e0ad18b5aa6213))
+
 # [1.2.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.1.0...v1.2.0) (2023-12-03)
 
 
