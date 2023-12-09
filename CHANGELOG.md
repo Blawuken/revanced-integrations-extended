@@ -1,3 +1,17 @@
+# [1.4.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.3.1...v1.4.0) (2023-12-09)
+
+
+### Bug Fixes
+
+* **Hide general ads:** `interstitial ads` are closed too early ([e92b130](https://github.com/Blawuken/revanced-integrations-extended/commit/e92b130287cb2c69c350caf4d41edc85f19d6a42))
+* **YouTube Music/Hide action bar label:** patch breaks in `v6.31.55+` ([08064b4](https://github.com/Blawuken/revanced-integrations-extended/commit/08064b4e4b9254b5e8b2865edadc0557882e90df))
+
+
+### Features
+
+* **Reddit:** change patch name: `Hide place button` → `Hide toolbar button` ([820445f](https://github.com/Blawuken/revanced-integrations-extended/commit/820445f928f2100825fd9b498a3ca84162f9fe66))
+* **YouTube Music/Hide general ads:** now patch hides new type of interstitial banner ([e40ac47](https://github.com/Blawuken/revanced-integrations-extended/commit/e40ac477c26f46a0b414e39170d9482cd878b7de))
+
 ## [1.3.1](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.3.0...v1.3.1) (2023-12-06)
 
 
