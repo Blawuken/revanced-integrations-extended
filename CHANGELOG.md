@@ -1,3 +1,30 @@
+# [1.5.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.4.0...v1.5.0) (2023-12-13)
+
+
+### Bug Fixes
+
+* **YouTube Music/Hide general ads:** `Hide premium renewal banner` is not hidden properly ([d3d884b](https://github.com/Blawuken/revanced-integrations-extended/commit/d3d884b2d7d65ea5ecdf028e5b1893b30d4d7ee8))
+* **YouTube Music/Remember video quality:** video quality toast shows wrong quality value ([1247355](https://github.com/Blawuken/revanced-integrations-extended/commit/1247355c1cdc2e79f4be5c33413b194a3465774c))
+* **YouTube/Hide general ads:** `Hide view products banner` setting hides the content of `Store` section in channel profile ([d97ee69](https://github.com/Blawuken/revanced-integrations-extended/commit/d97ee69d1bcd1932deb0c34d3270cc3f87e44fb3))
+* **YouTube/Hide general ads:** new types of ads are not blocked ([d9e5a22](https://github.com/Blawuken/revanced-integrations-extended/commit/d9e5a22c8be6b0bc7aabdf35b286218c59dda500))
+* **YouTube/Litho filter:** integrate filter ([e3ba3a3](https://github.com/Blawuken/revanced-integrations-extended/commit/e3ba3a3b8668a2cb0194f1ddb3ca2ca3bef773e5))
+* **YouTube/Return YouTube Dislike:** wait until fetch is complete before allowing the first Short to start playback ([6a5e6a7](https://github.com/Blawuken/revanced-integrations-extended/commit/6a5e6a7beb19662de31ca44043a807bfd705adf1))
+* **YouTube/Swipe controls:** press-to-swipe gesture working on overlays ([d20775e](https://github.com/Blawuken/revanced-integrations-extended/commit/d20775ec6e065efe35d50279d54a8b233b45d30d))
+
+
+### Features
+
+* **Integrations:** use new method ([4e2584d](https://github.com/Blawuken/revanced-integrations-extended/commit/4e2584dcd282fa751c3c4b006949930b28ccab20))
+* **YouTube Music:** rename patch `Start page` → `Change start page` ([89d48f2](https://github.com/Blawuken/revanced-integrations-extended/commit/89d48f2436d2501d241f1a98acd93669eb459300))
+* **YouTube/Alternative thumbnails:** matches official ReVanced code ([7ce12c8](https://github.com/Blawuken/revanced-integrations-extended/commit/7ce12c8159434489051482f7055456a8da5df3e1))
+* **YouTube/Hide channel profile components:** add `Hide store tab` settings ([3b7b53d](https://github.com/Blawuken/revanced-integrations-extended/commit/3b7b53dd16033766c2a3b663a24c650800cc835a))
+* **YouTube/Hide navigation buttons:** remove `Open library(You) on app startup` settings ([9958b59](https://github.com/Blawuken/revanced-integrations-extended/commit/9958b5988d3bdd30d318a876a2751958494b680e))
+* **YouTube/Spoof player parameters:** matches official ReVanced code ([b975828](https://github.com/Blawuken/revanced-integrations-extended/commit/b975828f36eea0a004bc18e018f920fd1bfa1970))
+* **YouTube/Spoof player parameters:** matches official ReVanced code ([9316bd9](https://github.com/Blawuken/revanced-integrations-extended/commit/9316bd9a5381a7c0617f7e980e578ea9d4d52b20))
+* **YouTube:** add `Change start page` patch ([ed7b12d](https://github.com/Blawuken/revanced-integrations-extended/commit/ed7b12d93fcdc7fa7f40edb0ee97202a2c891267))
+* **YouTube:** remove `Change homepage` patch ([e6077df](https://github.com/Blawuken/revanced-integrations-extended/commit/e6077df829249d69fa36041b28d66226f9e67efc))
+* **YouTube:** rename patch `Enable music search` → `Enable song search` ([1aa1df4](https://github.com/Blawuken/revanced-integrations-extended/commit/1aa1df42bc2ba1f68eca61d7f2e4381f58566a76))
+
 # [1.4.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.3.1...v1.4.0) (2023-12-09)
 
 
