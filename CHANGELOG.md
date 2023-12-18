@@ -1,3 +1,23 @@
+# [1.6.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.5.0...v1.6.0) (2023-12-18)
+
+
+### Bug Fixes
+
+* **YouTube/Hide button container:** `Hide save to playlist button` setting hides the save to playlist button in quick actions ([410ae5d](https://github.com/Blawuken/revanced-integrations-extended/commit/410ae5d0fb0538a6dffd9cc554e15648aac30bdd))
+* **YouTube/Hide general ads:** `Close interstitial ads` setting hides `interstitial ads` ([1fa05b4](https://github.com/Blawuken/revanced-integrations-extended/commit/1fa05b4e6dfe111f0ccaf99f513e10445473d5a4))
+* **YouTube/Litho filter:** integrate filter ([e751d06](https://github.com/Blawuken/revanced-integrations-extended/commit/e751d067af04e47956b8dbf67840e7ba7f09084b))
+* **YouTube/Quick actions components:** `Hide save to playlist button` setting does not support new icon (A/B tests) ([acb0962](https://github.com/Blawuken/revanced-integrations-extended/commit/acb09627d605c7bfac415e1e811bffc8376c9399))
+* **YouTube/Return YouTube Dislike:** do not prefetch Shorts shelf items on app startup ([e3f31f0](https://github.com/Blawuken/revanced-integrations-extended/commit/e3f31f01764e6e4ead5857ffbe44ee22e1e2e824))
+* **YouTube/Settings:** default value does not match ([71604c7](https://github.com/Blawuken/revanced-integrations-extended/commit/71604c7b760047129fab0272174b93458a0aac1d))
+* **YouTube/SponsorBlock:** export local statistics with saved settings ([fd68bc0](https://github.com/Blawuken/revanced-integrations-extended/commit/fd68bc0d28b5ff7afc54c1a1cd0dd63d29e88031))
+* **YouTube/SponsorBlock:** export local statistics with saved settings ([dae9640](https://github.com/Blawuken/revanced-integrations-extended/commit/dae964094a959da66caf2bdde649ac6275c690c2))
+
+
+### Features
+
+* **YouTube/Hide comment component:** add `Hide comments by members banner` settings ([1916a31](https://github.com/Blawuken/revanced-integrations-extended/commit/1916a310ba20d69dbfa79e935df3ba7e3b1fafe1))
+* **YouTube:** add `Enable bottom player gestures` patch ([35421f3](https://github.com/Blawuken/revanced-integrations-extended/commit/35421f3506ab7756bc2d6dea75453069ba1ba020))
+
 # [1.5.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.4.0...v1.5.0) (2023-12-13)
 
 
