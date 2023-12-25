@@ -1,3 +1,27 @@
+# [1.7.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.6.0...v1.7.0) (2023-12-25)
+
+
+### Bug Fixes
+
+* error toast is shown when not connected to the network or playing a device file ([e269724](https://github.com/Blawuken/revanced-integrations-extended/commit/e269724331c8e14fae341c71952ba1a7dfc04ed5))
+* **YouTube Music/Hide flyout panel:** `Watch on YouTube` menu works even when playing a device file ([1b75132](https://github.com/Blawuken/revanced-integrations-extended/commit/1b75132281ccc53085c07cc601545af0a8ef19b9))
+* **YouTube Music/Hide flyout panel:** restart dialog is missing ([1e5d559](https://github.com/Blawuken/revanced-integrations-extended/commit/1e5d559ef0fc3e4e55fa9367f55767c46b3effc5))
+* **YouTube Music/Settings:** change default value of `Enable new player background` setting in YT Music v6.31.55+ ([f6542ea](https://github.com/Blawuken/revanced-integrations-extended/commit/f6542ea8c4327fe2c8a91248a216dbef024b072c))
+* **YouTube Music/SponsorBlock:** segments not skipping during background play ([7641103](https://github.com/Blawuken/revanced-integrations-extended/commit/7641103fd8f06f634d44101649f62009986e5e04))
+* **YouTube/Enable wide search bar:** layout breaks on devices above 720 dpi ([72c0426](https://github.com/Blawuken/revanced-integrations-extended/commit/72c04265e268b850b7bec3789df51bb8206995e7))
+* **YouTube/Hide comment component:** Thanks button isn't hidden ([ea4917f](https://github.com/Blawuken/revanced-integrations-extended/commit/ea4917f26b211308e8d4fc70f48b789fe24d3cb7))
+* **YouTube/Hide general ads:** `Close interstitial ads` setting hides `interstitial ads` ([0a73982](https://github.com/Blawuken/revanced-integrations-extended/commit/0a739825f37423a3ac4d52a21fe265d4ceae1967))
+* **YouTube/Settings:** specifies a fallback string as a summary if an invalid value is specified in list preference ([3b0344d](https://github.com/Blawuken/revanced-integrations-extended/commit/3b0344d5b955661bb698ac6c29feb905dbadbbfb))
+* **YouTube/Settings:** when exporting settings to the file, wrong app name is used in Android 13+ ([55bedd5](https://github.com/Blawuken/revanced-integrations-extended/commit/55bedd56c2827174df0c4c622421a1fcde3ff7f2))
+
+
+### Features
+
+* **YouTube Music/Hide action bar component:** add `Hide add to playlist button`, `Hide comment button`, `Hide download button`, `Hide share button` settings ([60949e1](https://github.com/Blawuken/revanced-integrations-extended/commit/60949e192c3a7ee8cf110e98da9ec08f9b7bd6ea))
+* **YouTube Music/Hide general ads:** add `Hide interstitial ads` settings ([7ffb3f3](https://github.com/Blawuken/revanced-integrations-extended/commit/7ffb3f375e2d56033117a91938315015189bc615))
+* **YouTube Music/Hide general ads:** remove `Close interstitial ads` settings ([f332a04](https://github.com/Blawuken/revanced-integrations-extended/commit/f332a04cec5278501f3d6934dcea08edaf4c6473))
+* **YouTube/Hide layout components:** add `Hide videos with gray description` settings ([2a0eb20](https://github.com/Blawuken/revanced-integrations-extended/commit/2a0eb207277c01dd5eb37f1be390da85bb47e813))
+
 # [1.6.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.5.0...v1.6.0) (2023-12-18)
 
 
