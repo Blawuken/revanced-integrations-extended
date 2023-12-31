@@ -1,3 +1,22 @@
+# [1.8.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.7.0...v1.8.0) (2023-12-31)
+
+
+### Bug Fixes
+
+* **YouTube Music/Disable auto captions:** captions are always disabled when `Disable auto captions` is on ([43b78c4](https://github.com/Blawuken/revanced-integrations-extended/commit/43b78c424fb97fa6939f4ca490e84c5b70847bbb))
+* **YouTube/Disable auto captions:** patch does not work when A/B testing is applied ([c10ce92](https://github.com/Blawuken/revanced-integrations-extended/commit/c10ce9240e3df429be4583ecd32980b242446a53))
+* **YouTube/Hide captions button:** patch does not work when A/B testing is applied ([d0c93ff](https://github.com/Blawuken/revanced-integrations-extended/commit/d0c93ff4d32bc42c623a83369b8f21b9f9f23bc0))
+* **YouTube/Remove viewer discretion dialog:** `Remove viewer discretion dialog` settings close unintended dialog ([c3b9ee9](https://github.com/Blawuken/revanced-integrations-extended/commit/c3b9ee956d230c432c377b4647d8f37f0c065497))
+* **YouTube/SponsorBlock:** do not auto skip end segments more than once if using a slow playback speed ([6ab8078](https://github.com/Blawuken/revanced-integrations-extended/commit/6ab8078acc1b81344e807d29bd6ee634fb6b159a))
+* **YouTube/VideoInformation:** Ignore video seek attempts during the last 250ms of video playback ([1656a7d](https://github.com/Blawuken/revanced-integrations-extended/commit/1656a7dc41c7a6d0549938e131478a351a3748dc))
+
+
+### Features
+
+* **YouTube Music/Hide flyout menu:** add unimplemented settings ([d536b2d](https://github.com/Blawuken/revanced-integrations-extended/commit/d536b2dab2a36a83d0e057f3b31488da77865fbf))
+* **YouTube Music:** add `Remove viewer discretion dialog` patch ([eda63cb](https://github.com/Blawuken/revanced-integrations-extended/commit/eda63cb9ee70d6dede99d4bb7dd5a4f0d00cb48c))
+* **YouTube:** add `Remove viewer discretion dialog` patch ([93798b4](https://github.com/Blawuken/revanced-integrations-extended/commit/93798b4f249c0ef2e52859053ebfe9639138f0a4))
+
 # [1.7.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.6.0...v1.7.0) (2023-12-25)
 
 
