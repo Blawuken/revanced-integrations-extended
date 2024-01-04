@@ -1,3 +1,16 @@
+# [1.9.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.8.0...v1.9.0) (2024-01-04)
+
+
+### Bug Fixes
+
+* **YouTube/Settings:** settings are not initialized properly ([01174ab](https://github.com/Blawuken/revanced-integrations-extended/commit/01174abf84618935e992d79fc63610850f667501))
+* **YouTube/YouTube Music:** change default value ([40d3623](https://github.com/Blawuken/revanced-integrations-extended/commit/40d3623d671b45b2cfdf0951db29028798bc2f9f))
+
+
+### Features
+
+* **YouTube Music:** add `Disable overlay filter` patch ([ce35ade](https://github.com/Blawuken/revanced-integrations-extended/commit/ce35adead229f920313bd9ac7af6e997d122c943))
+
 # [1.8.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.7.0...v1.8.0) (2023-12-31)
 
 
