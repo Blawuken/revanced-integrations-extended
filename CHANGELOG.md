@@ -1,3 +1,31 @@
+# [1.10.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.9.0...v1.10.0) (2024-01-19)
+
+
+### Bug Fixes
+
+* **YouTube Music/MicroG support:** Gracefully exit when MicroG is not running ([34b9291](https://github.com/Blawuken/revanced-integrations-extended/commit/34b92917ce17231a2032df67fe4fabfbab4c36e1))
+* **YouTube/Alternative thumbnails:** correctly handle http status 304 ([65f1907](https://github.com/Blawuken/revanced-integrations-extended/commit/65f1907f2e2fe94094439bce0ce50efc5ca639a8))
+* **YouTube/Hide comment component:** `Hide emoji picker` and `Hide thanks button` do not work on the Shorts live stream ([f66f8f6](https://github.com/Blawuken/revanced-integrations-extended/commit/f66f8f60d56fbdc49db71eea44c80dac161fb178))
+* **YouTube/Hide shorts components:** `Hide like button` reappears if the short is liked ([24d64ea](https://github.com/Blawuken/revanced-integrations-extended/commit/24d64ea600186f743d59d8b04272ba44c8b62aee))
+* **YouTube/MicroG support:** Gracefully exit when MicroG is not running ([dc65e9f](https://github.com/Blawuken/revanced-integrations-extended/commit/dc65e9faadd8f31b5d12332a3082b7c163328778))
+* **YouTube/Overlay buttons:** change the default value of all overlay buttons to hidden ([c554a9d](https://github.com/Blawuken/revanced-integrations-extended/commit/c554a9da4f4000bea1bd2dd72a215459d23e72a6))
+* **YouTube/Quick actions components:** description of the toggle and the value limit of the internal code do not match ([2d1077c](https://github.com/Blawuken/revanced-integrations-extended/commit/2d1077cd1ff79041c1e6ac7be13a89b5a1fd9611))
+* **YouTube/Quick actions components:** when invalid value is saved, setting is not initialized normally ([aac5750](https://github.com/Blawuken/revanced-integrations-extended/commit/aac57503f7c4de19760d855144587ddbd73bffd0))
+* **YouTube/Return YouTube Dislike:** dislike counts are not displayed in the shorts live streaming ([078724d](https://github.com/Blawuken/revanced-integrations-extended/commit/078724d3ce2ed6288be0bf9963fd3911a5dcfbdb))
+* **YouTube/Spoof app version:** If the app version is manually changed through `Edit spoof app version`, the summary of the `Spoof app version target` setting is displayed as `Unknown` ([1c7c5ba](https://github.com/Blawuken/revanced-integrations-extended/commit/1c7c5bab00a4c25fac57a6ad734e4f005f611359))
+* **YouTube/Spoof player parameters:** change the default value ([ffb148f](https://github.com/Blawuken/revanced-integrations-extended/commit/ffb148fee5963fac9b5b11e70b5b578b6323f43c))
+
+
+### Features
+
+* **YouTube Music/Hide action bar component:** add `Hide Like and Dislike buttons` settings ([bc028bb](https://github.com/Blawuken/revanced-integrations-extended/commit/bc028bba0bd29fd3d4d3625aa42b1c98ba13854e))
+* **YouTube Music:** add `Hide fullscreen share button` patch ([ddafd4c](https://github.com/Blawuken/revanced-integrations-extended/commit/ddafd4c703084bc1ba0cc433e05c5f4d9b8aed45))
+* **YouTube/Default playback speed:** add `Enable shorts default playback speed` settings ([96e0916](https://github.com/Blawuken/revanced-integrations-extended/commit/96e091652d25d06c545a103c320f8fb9c3fe038f))
+* **YouTube/Hide comment component:** add `Hide preview comment type` settings ([3ba715d](https://github.com/Blawuken/revanced-integrations-extended/commit/3ba715d428186a1a653f037526faf197f80330c3))
+* **YouTube:** add `Change player flyout panel toggles` patch ([6ebd6bb](https://github.com/Blawuken/revanced-integrations-extended/commit/6ebd6bbdf7393070daea1a7b2d03f384dc72cdfc))
+* **YouTube:** add `Disable update screen` patch ([931e6b8](https://github.com/Blawuken/revanced-integrations-extended/commit/931e6b8a9c20fb874d520f3e00c6a738f9f6fc7b))
+* **YouTube:** add `Keep landscape mode` patch ([efd42f5](https://github.com/Blawuken/revanced-integrations-extended/commit/efd42f5e5c7023e8c3e7afb0450dbaf42a456dd2))
+
 # [1.9.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.8.0...v1.9.0) (2024-01-04)
 
 
