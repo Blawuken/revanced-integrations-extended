@@ -1,3 +1,24 @@
+# [1.11.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.10.0...v1.11.0) (2024-01-27)
+
+
+### Bug Fixes
+
+* **YouTube Music/Replace dismiss queue:** use built-in icons ([2a45435](https://github.com/Blawuken/revanced-integrations-extended/commit/2a4543592404674f733678957f713efda50a1e42))
+* **YouTube Music:** app is forced close when changing `Enable old player background` setting or the `Enable old player layout` setting ([1e0147f](https://github.com/Blawuken/revanced-integrations-extended/commit/1e0147f51fee04dd325f34fba348dfb007ea954c))
+* **YouTube/Hide layout components:** `Hide browse store button` setting hides join button on tablets ([7f23ec8](https://github.com/Blawuken/revanced-integrations-extended/commit/7f23ec874ec619995c9fddc54d603f4c16c254a8))
+* **YouTube/Hide layout components:** `Hide join button` setting does not work ([c1d6564](https://github.com/Blawuken/revanced-integrations-extended/commit/c1d65642d31da911abf5d54e8dac08a15a2e21b8))
+* **YouTube/Settings:** move `Hide cast button` setting to `General` settings ([bff9130](https://github.com/Blawuken/revanced-integrations-extended/commit/bff9130a8bdfe33bb57a593a4a5f8975ae16c3af))
+
+
+### Features
+
+* **Reddit:** add `Remove subreddit dialog` patch ([10a26a7](https://github.com/Blawuken/revanced-integrations-extended/commit/10a26a7005ca390bf6778d2538d287dca9b2a793))
+* **YouTube Music/Hide general ads:** remove `Hide interstitial ads` settings ([6047c1a](https://github.com/Blawuken/revanced-integrations-extended/commit/6047c1ad7a9ff2f3b4fdebdcd70bc8c393ac3bbc))
+* **YouTube Music/Hide player flyout panel:** add `Hide subscribe / unsubscribe menu`, `Hide sleep timer menu` settings ([ef2bf55](https://github.com/Blawuken/revanced-integrations-extended/commit/ef2bf558165b9707782abf94325cef19b4338ea1))
+* **YouTube Music:** change patch name `Enable new player background` to `Enable old player background` ([d70fdb3](https://github.com/Blawuken/revanced-integrations-extended/commit/d70fdb3cec7ff97ee841f11fa6c561b15abc9d37))
+* **YouTube Music:** remove `Enable sleep timer` patch ([08ceaf4](https://github.com/Blawuken/revanced-integrations-extended/commit/08ceaf45a8e4994cb2bd2b37bffd9aa23437200d))
+* **YouTube/Hide button container:** remove `Hide transcript button` setting ([b66c3d6](https://github.com/Blawuken/revanced-integrations-extended/commit/b66c3d69d6d04733b9f6fbf779c4c2d325ba3364))
+
 # [1.10.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.9.0...v1.10.0) (2024-01-19)
 
 
