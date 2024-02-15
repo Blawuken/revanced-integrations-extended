@@ -1,3 +1,35 @@
+# [1.12.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.11.0...v1.12.0) (2024-02-15)
+
+
+### Bug Fixes
+
+* **Alternative Thumbnails:** Exclude livestream video ([4fc7c82](https://github.com/Blawuken/revanced-integrations-extended/commit/4fc7c822176237ea584e7d2ca7853f45056ba036))
+* **Default Video Quality:** Video quality is not changeable if default ones is already set ([7924752](https://github.com/Blawuken/revanced-integrations-extended/commit/7924752ffea8fb1d0ce41a898ed25376d070221f))
+* **Hide channel avatar section:** Not worked as excepted ([eeb19dd](https://github.com/Blawuken/revanced-integrations-extended/commit/eeb19dda69ba1fb832bd15a0f07b86882716b8fc))
+* **Hide interstitial ads:** Crashing when trying to hide ([9bf08d3](https://github.com/Blawuken/revanced-integrations-extended/commit/9bf08d36837e3e1b0f6d0d20e09d2793684e97bf))
+* **Hide Layout Component:** `Hide community posts in home feed` no longer working ([0434180](https://github.com/Blawuken/revanced-integrations-extended/commit/0434180067e716ed209238dd7eb071e1a36e5ed3))
+* **Hide Layout Component:** Hide `Community Post` not worked due to A/B Testing ([3047f88](https://github.com/Blawuken/revanced-integrations-extended/commit/3047f88c43777d7499930342808ec8d5c4f75964))
+* **Hide Suggested Video Overlay:** Autoplay not worked ([800ca1e](https://github.com/Blawuken/revanced-integrations-extended/commit/800ca1e66da3d76656b32366e9bbfa304edd8e35))
+* **Overide Quality:** Default Video Quality not worked as excepted ([f2b5025](https://github.com/Blawuken/revanced-integrations-extended/commit/f2b502522270d73bf326b603a72cc6aacba0b051))
+* **Return YouTube Dislike:** Correct Seperator Color when Spoofing to older version ([63565d6](https://github.com/Blawuken/revanced-integrations-extended/commit/63565d638e5a4597bb85cc96393c97cc2a120d01))
+* **Spoof Player Parameter:** Fail to fetch storyboard from Trailer of Premieres Video ([f5a48af](https://github.com/Blawuken/revanced-integrations-extended/commit/f5a48afb0c2b0d2ac308ccc486685c781fa3d8f8))
+* **YouTube - Litho Filter:** Ignore null buffers ([9dffbcb](https://github.com/Blawuken/revanced-integrations-extended/commit/9dffbcb532b93dae20568d018245399604d6744b))
+* **YouTube - Quick Action:** `Hide comment button` not working ([dbb45a0](https://github.com/Blawuken/revanced-integrations-extended/commit/dbb45a0d5611d06661e08d4ab976a9cba75d92db))
+* **YT Music - Hide action bar component:** Hide Like/Dislike button not worked in v6.35+ ([c5e4fc7](https://github.com/Blawuken/revanced-integrations-extended/commit/c5e4fc7e87588825a13e3a7766f41cdec4484401))
+
+
+### Features
+
+* Build ! ([37df7c5](https://github.com/Blawuken/revanced-integrations-extended/commit/37df7c5f996e8c37f7664afc63ef8eb3a531ce5d))
+* **Channel Whitelist:** Bello world ! ([4e665c6](https://github.com/Blawuken/revanced-integrations-extended/commit/4e665c68347b7eb026ea1419748210f4c62dd244))
+* **Disable Rolling Number Animation:** Introduce patch ([35cc7b1](https://github.com/Blawuken/revanced-integrations-extended/commit/35cc7b1cf1aaaff201cdd90ad485d60b47f9b1fe))
+* **Overlay Button - Always Repeat:** Re-implement `pause after repeat` ([453519d](https://github.com/Blawuken/revanced-integrations-extended/commit/453519dda3b3e9300190f66e9750cb4660eba6ac))
+* **YouTube - Custom filter:** Custom filtering of the protocol buffer ([74fd79b](https://github.com/Blawuken/revanced-integrations-extended/commit/74fd79b34f5704d2e527a888cdc16b330f8721c7))
+* **YouTube - Hide layout components:** Add `Hide membership video` settings ([ecbfc02](https://github.com/Blawuken/revanced-integrations-extended/commit/ecbfc023910a1df1e86da737407b397b9eff3350))
+* **YouTube:** Hook download button for Flyout Menu ([875ad57](https://github.com/Blawuken/revanced-integrations-extended/commit/875ad57a299c614d7430149b85545796f1739461))
+* **YTM:** Add `Hide For You Shelf` ([af4afaf](https://github.com/Blawuken/revanced-integrations-extended/commit/af4afaf5e25e88d0d516ab6d31a4e8d31a73eb94))
+* **YTM:** Add `Hide Tap to Update Button` ([964e86f](https://github.com/Blawuken/revanced-integrations-extended/commit/964e86febb4c4dca3c8584a446d9b91400a3aaad))
+
 # [1.11.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.10.0...v1.11.0) (2024-01-27)
 
 
