@@ -1,7 +1,7 @@
-name: Release
+name: Test Build
 
 on:
-  workflow_dispatch:
+  push:
     branches:
       - revanced-extended
 
@@ -40,9 +40,3 @@ jobs:
 
       - name: Build with Gradle
         run: ./gradlew build clean
-
-      - name: Setup semantic-release
-        run: npm install
-
-      - name: Release
-        run: npm exec semantic-release
