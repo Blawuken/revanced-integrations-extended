@@ -1,3 +1,20 @@
+# [1.13.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.12.0...v1.13.0) (2024-02-28)
+
+
+### Bug Fixes
+
+* **General Ads:** Hide product ads in video descriptions ([41ff7b3](https://github.com/Blawuken/revanced-integrations-extended/commit/41ff7b324f88e75ae93573a977f5146036f249c8))
+* **Hide Community Post:** Community posts not showing on Community Tab of a channel ([1dcf3ac](https://github.com/Blawuken/revanced-integrations-extended/commit/1dcf3acdd4881d77614b289aea27b8802ceca0db))
+* **Hide Suggested Video Overlay:** Autoplay options followed the system settings ([04587c0](https://github.com/Blawuken/revanced-integrations-extended/commit/04587c0cb7225464c26a805a9bb3679670f49b97))
+* Import missing deps ([edd1357](https://github.com/Blawuken/revanced-integrations-extended/commit/edd1357073abb6b29f0fd23eabe7dde8e1b761b7))
+* Time-ordered button required restart ([fc023dd](https://github.com/Blawuken/revanced-integrations-extended/commit/fc023dd18444a677f532638ab7dd641c7df4a2e2))
+* **YouTube/Sponsorblock:** Modernize skip buttons ([b38ecea](https://github.com/Blawuken/revanced-integrations-extended/commit/b38ecea3a7e286023b9ebb7970bb5911229b89e5))
+
+
+### Features
+
+* **YouTube - Overlay button:** Add `Time-ordered Playlist` button ([65a2495](https://github.com/Blawuken/revanced-integrations-extended/commit/65a2495338916acdaf4dede749909edd4970bf29))
+
 # [1.12.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.11.0...v1.12.0) (2024-02-15)
 
 
