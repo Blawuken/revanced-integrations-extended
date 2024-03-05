@@ -1,3 +1,16 @@
+# [1.14.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.13.0...v1.14.0) (2024-03-05)
+
+
+### Bug Fixes
+
+* **Spoof Player Parameter:** Playback issues appears when opening a YouTube link ([8c444e4](https://github.com/Blawuken/revanced-integrations-extended/commit/8c444e49dd8dcf9f6cb81c4ed2daa3cc6a2b5190))
+* **YouTube - Hide Shorts:** Hide Shorts in feed when using tablet layout ([14a60a0](https://github.com/Blawuken/revanced-integrations-extended/commit/14a60a0ad12eaf1899229cad5d074895de3468a8))
+
+
+### Features
+
+* **YouTube - Hook Download Button:** Hook playlist download button ([928bfdf](https://github.com/Blawuken/revanced-integrations-extended/commit/928bfdfefc60fd31b76b799c40e3706c4037cd75))
+
 # [1.13.0](https://github.com/Blawuken/revanced-integrations-extended/compare/v1.12.0...v1.13.0) (2024-02-28)
 
 
